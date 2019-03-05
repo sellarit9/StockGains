@@ -1,0 +1,42 @@
+PEP,106.25,10/05/2018,Tre Motif Roth
+RBCAA,41.36,02/04/2019,Tre Motif Roth
+NOBL,64.1,02/04/2019,Tre Motif Roth
+SPY,270.14,02/04/2019,Tre Motif Roth
+CMSA,37.7,02/11/2019,Tre Motif Roth
+ITW,132,12/14/2018,Tre Motif Roth
+PM,85.2,4/20/2018,Tre Motif Roth
+PKG,98.23,02/19/1029,Tre Motif Roth
+TJX,95.95,6/13/2018,Tre Motif Roth
+LOW,100.7,6/13/2018,Tre Motif Roth
+PSXP,50.5,02/04/2019,Tre Motif Roth
+SBSI,34.75,6/13/2018,Tre Motif Roth
+MO,57.8,6/13/2018,Tre Motif Roth
+T,32.6,10/18/2018,Tre Motif Roth
+CAH,53.7,10/5/2018,Tre Motif Roth
+IBM,150.86,10/5/2018,Tre Motif Roth
+WBA,72,02/04/2019,Tre Motif Roth
+EQM,45.53,02/04/2019,Tre Motif Roth
+TLRY,235,09/19/2018,Tre Motif Roth
+NHTC,16.7,02/04/2019,Tre Motif Roth
+ENB,33.2,12/08/2018,Savings Motif
+IBM,151,10/05/2018,Savings Motif
+SBSI,31.8,12/31/2018,Savings Motif
+CLDT,19,12/14/2018,Savings Motif
+ITW,145.05,09/17/2018,Savings Motif
+THW,12.9,02/14/2019,Savings Motif
+ABBV,80.6,02/19/2019,Savings Motif
+T,29.75,02/14/2019,Savings Motif
+T,30.5,12/06/2018,Savings Motif
+T,33.6,09/17/2018,Savings Motif
+OZK,32.2,1/29/2019,Boys Motif
+PEP,106.3,10/05/2018,Boys Motif
+PKG,98.2,02/19/2019,Boys Motif
+XOM,81.5,10/18/2018,Boys Motif
+OKE,66.7,09/17/2018,Boys Motif
+IBM,151,10/5/2018,Boys Motif
+T,31,11/01/2018,Boys Motif
+BABA,210,6/13/2018,Boys Motif
+ABBV,80.6,02/19/2019,Boys Motif
+EVR,93.85,3/04/2019,Boys Motif
+T,36.11,02/12/2018,Fidelity Rollover IRA
+ITW,137.58,07/02/2018, Fidelity Rollover IRA
