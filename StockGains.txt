@@ -40,3 +40,4 @@ ABBV,80.6,02/19/2019,Boys Motif
 EVR,93.85,3/04/2019,Boys Motif
 T,36.11,02/12/2018,Fidelity Rollover IRA
 ITW,137.58,07/02/2018, Fidelity Rollover IRA
+PSX,98,03/15/2019, Lauren Roth
