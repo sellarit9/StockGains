@@ -1,4 +1,3 @@
-PEP,106.25,10/05/2018,Tre Motif Roth
 RBCAA,41.36,02/04/2019,Tre Motif Roth
 NOBL,64.1,02/04/2019,Tre Motif Roth
 SPY,270.14,02/04/2019,Tre Motif Roth
@@ -29,7 +28,6 @@ T,29.75,02/14/2019,Savings Motif
 T,30.5,12/06/2018,Savings Motif
 T,33.6,09/17/2018,Savings Motif
 OZK,32.2,1/29/2019,Boys Motif
-PEP,106.3,10/05/2018,Boys Motif
 PKG,98.2,02/19/2019,Boys Motif
 XOM,81.5,10/18/2018,Boys Motif
 OKE,66.7,09/17/2018,Boys Motif
